@@ -33,6 +33,9 @@ git clone https://github.com/dracula/gnome-terminal
 cd gnome-terminal
 ./install.sh
 
+## Install Flameshot ##
+sudo apt install flameshot -y
+
 ## Install programs by Snap ##
 sudo apt install snapd -y
 sudo snap install insomnia
