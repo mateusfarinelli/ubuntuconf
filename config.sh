@@ -41,6 +41,7 @@ sudo apt install snapd -y
 sudo snap install insomnia
 sudo snap install skype --classic
 sudo snap install code --classic
+sudo snap install teams-for-linux
 #sudo snap isntall spotify
 
 ## Install Runtime and SDK for C#  by Snap ##
